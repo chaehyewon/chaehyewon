@@ -1,24 +1,13 @@
-### Hi there 👋
 
-<!--
-**chaehyewon/chaehyewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!😊&fontSize=65" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 
 <div align="center">
 
-<h2> ~ing 🐣💻 </h2>
+<h2> I'm Learning~🐣💻 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -36,9 +25,11 @@ Here are some ideas to get you started:
 
 
 
+
+
 <div align="center">
 
-<h2> I'M  </h2>
+<h2>   </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyewon&show_icons=true&theme=one_dark_pro)
 
