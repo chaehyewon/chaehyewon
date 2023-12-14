@@ -3,8 +3,6 @@
 
 
 
-
-
 <div align="center">
 
 <h2> I'm Learning~🐣💻 </h2>
@@ -35,3 +33,4 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=125&section=footer&text=&fontSize=65" />
