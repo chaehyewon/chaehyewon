@@ -23,13 +23,11 @@
 
 
 
-
-
 <div align="center">
 
 <h2>   </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyewon&show_icons=true&theme=one_dark_pro)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyewon&show_icons=true&theme=catppuccin_mocha)
 
 </div>
 
