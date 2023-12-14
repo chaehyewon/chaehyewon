@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!😊&fontSize=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=Welcome!😊&fontSize=65" />
 
 
 
