@@ -24,11 +24,14 @@
 
 
 <div align="center">
-
 <h2>   </h2>
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyewon&show_icons=true&theme=gotham)
+</div>
 
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyewon&layout=compact">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=125&section=footer&text=&fontSize=65" />
